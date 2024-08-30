@@ -1,7 +1,10 @@
-h1 {
+h1, h2, h3, h4, h5, h6 {
   color: black;
   font-family: "Playfair Display", serif;
   font weight : 700;
+}
+h1{
+    font-size: 96px;
 }
 
 p{
@@ -13,4 +16,10 @@ p{
 .hero{
     background-color: #ffbdd8;
     text-align: center;
+}
+
+.hero p{
+
+    font-size: 36px;
+    font-weight: bold;
 }
