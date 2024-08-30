@@ -1,0 +1,16 @@
+h1 {
+  color: black;
+  font-family: "Playfair Display", serif;
+  font weight : 700;
+}
+
+p{
+   font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+ 
+.hero{
+    background-color: #ffbdd8;
+    text-align: center;
+}
