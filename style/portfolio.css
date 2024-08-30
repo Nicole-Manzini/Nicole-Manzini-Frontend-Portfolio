@@ -61,9 +61,11 @@ padding:0;}
 
 .about-section-content{
     margin:30px;
+    padding: 160px 20px;
 }
  .about-section img{
     border-radius: 50px;
+   margin-top: 190px;
 }
 .about-section h2{
     font-size:18px;
@@ -95,7 +97,7 @@ padding:0;}
 @media(max-width:900px){
 
     h1{ font-size:44px;
-    line-height:2;}
+    line-height:56px;}
     h2{font-size:43px;}
 
     .project-description{
