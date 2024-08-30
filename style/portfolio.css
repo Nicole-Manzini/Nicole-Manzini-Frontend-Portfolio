@@ -14,7 +14,7 @@ p{
 }
  
 .hero{
-    background-color: #ffbdd8;
+    background-color: #fceaf2;
     text-align: center;
 }
 
@@ -23,10 +23,20 @@ p{
     font-size: 36px;
     font-weight: bold;
     margin:0;
+    color: #272142;
 }
 .hero h2{
  font-family: "Poppins", sans-serif;
  font-weight: normal;
  line-height: 2;
  font-size: 24px;
+}
+
+
+.btn-branding{
+    background-color: #e675c9;
+    border-radius: 4px;
+    color: white;
+    font-size: 18px;
+    line-height: 27px;
 }
