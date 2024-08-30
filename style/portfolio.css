@@ -54,12 +54,19 @@ p{
 text-align: center;
 padding:0;}
 
-.content-container h1{
-    font-size: 64px;
+.content h1{
+    font-size: 45px;
     line-height: 80px;
     
 }
-
+.content h3{
+    font-size:24px;
+    line-height: 1.5;
+    font-family: var(--default-font-family);
+}
+ .content p{
+    font-size: 14px;
+ }
 .content{
     margin:30px;
     padding: 160px 20px;
@@ -68,7 +75,7 @@ padding:0;}
     border-radius: 50px;
    margin-top: 190px;
 }
-.content-container h2{
+.content h2{
     font-size:18px;
     font-family: var(--default-font-family);
 }
