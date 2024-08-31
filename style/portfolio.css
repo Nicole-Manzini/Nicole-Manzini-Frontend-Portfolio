@@ -143,10 +143,16 @@ footer .social-links a{
     color: var(--branding-color);
     background: var(--secondary-color);
     padding: 10px 14px;
-    border-radius: 50px;
+    border-radius: 50%;
     font-size: 22px;
+    transition: all 100ms ease-in-out;
 
 
+}
+
+footer .social-links a:hover{
+    color:white;
+    background: var(--branding-color);
 }
 .project-description{
     padding: 120px 60px;
@@ -166,9 +172,4 @@ footer{
     .project-description{
      padding: 0px;
      text-align: justify;  
-}
-
-
-
-
-
+    }
